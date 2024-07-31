@@ -3,7 +3,7 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://images.squarespace-cdn.com/content/v1/637364f59c91484937b29d96/e55ddf4b-f912-426e-87d7-624a9339a1ca/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },

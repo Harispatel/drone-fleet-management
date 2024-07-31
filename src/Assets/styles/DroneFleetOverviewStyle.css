@@ -1,0 +1,25 @@
+/* Center the heading and add some bottom margin */
+.text-center {
+    text-align: center;
+  }
+  
+  /* Add some space below the heading */
+  .mb-4 {
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Style the table headers */
+  .thead-dark th {
+    background-color: #343a40; /* Dark background for the table header */
+    color: #fff; /* White text for the table header */
+  }
+  
+  /* Make the table responsive */
+  .table-responsive {
+    overflow-x: auto; /* Enable horizontal scrolling for smaller screens */
+  }
+  
+  /* Add some margin-top to the container */
+  .mt-5 {
+    margin-top: 3rem;
+  }

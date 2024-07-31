@@ -1,0 +1,19 @@
+/* Fullscreen background with a centered drone image */
+.login-background {
+    background-image: url('https://images.squarespace-cdn.com/content/v1/637364f59c91484937b29d96/db7bd6c2-57d4-4fa0-ac8a-41262fdaeb09/vlcsnap-2022-11-15-12h53m51s642.jpg'); /* Use a copyright-free image URL */
+    background-size: cover; /* Ensure the background covers the whole screen */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    height: 100vh; /* Make the background take up the full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Styling for the login form */
+  .login-form {
+    background-color: rgba(255, 255, 255, 0.8); /* White background with some transparency */
+    padding: 2rem; /* Padding inside the form */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Light shadow for some depth */
+  }
